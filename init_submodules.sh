@@ -16,5 +16,3 @@ git config --local submodule.sims/firesim.update none
 git submodule update --init --recursive
 git config --local --unset-all submodule.sims/firesim.update
 git submodule update --init sims/firesim
-cd ../..
-
