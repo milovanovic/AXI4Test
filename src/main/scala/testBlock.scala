@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: Apache-2.0
 
-package adder
+package axi4test
 
 import chisel3.stage.{ChiselGeneratorAnnotation, ChiselStage}
 import chisel3._
